@@ -35,8 +35,6 @@
       
   <a href="https://ashtoncaseman.github.io/socials.md">Socials</a>
 
-    </script>
-
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6025113828189125"
         crossorigin="anonymous"></script>
 
