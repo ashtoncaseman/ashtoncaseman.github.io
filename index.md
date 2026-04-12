@@ -1,5 +1,3 @@
-<div class="text-center">
-    
     <meta name='impact-site-verification' value='d8935e12-49df-4f22-9cb7-270ff77e8ffd'>
     
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1802884009443504"
@@ -17,7 +15,7 @@ Welcome To The **Ashton Caseman** _Website_! I’m the owner of ***AC Island***!
 
         <p>----------------------------------<p>
 
-  **My Pages**
+**My Pages**
 
   <p>----------------------------------<p>
       
