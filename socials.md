@@ -1,3 +1,5 @@
+<div class="text-center">
+
 All My Socials↴
 
     <p>-------------------------<p>
