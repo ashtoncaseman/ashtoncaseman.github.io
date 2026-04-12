@@ -5,11 +5,11 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1802884009443504"
      crossorigin="anonymous"></script>
 
-****Welcome To The **Ashton Caseman** _Website_! I’m the owner of ***AC Island***! My best friends are **MrTop5** and **Deadlox**! I do theatre plays, make music, make animations, and play video games!****
+Welcome To The **Ashton Caseman** _Website_! I’m the owner of ***AC Island***! My best friends are **MrTop5** and **Deadlox**! I do theatre plays, make music, make animations, and play video games!
 
 **-----------------**
 
-****All My Videos!****
+**All My Videos!**
 
 **-------------------------**
 
@@ -17,7 +17,7 @@
 
         <p>----------------------------------<p>
 
-  ****My Pages****
+  **My Pages**
 
   <p>----------------------------------<p>
       
