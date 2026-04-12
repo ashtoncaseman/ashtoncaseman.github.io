@@ -1,11 +1,6 @@
 <div class="text-center">
-    
-    <meta name='impact-site-verification' value='d8935e12-49df-4f22-9cb7-270ff77e8ffd'>
-    
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1802884009443504"
-     crossorigin="anonymous"></script>
 
-     <h1 class="display-4">All My Socials↴
+All My Socials↴
          
 <p>--------------------------</p>
 
