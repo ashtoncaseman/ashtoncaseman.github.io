@@ -1,10 +1,10 @@
-<div class="text-center">
+    <div class="text-center">
 
-    <h1 class="display-4">All My Socials↴
+<h1 class="display-4">All My Socials↴
 
         <p>-------------------------<p>
 
-<a href="https://youtube.com/@ashtoncaseman">Main Channel</a>
+    <a href="https://youtube.com/@ashtoncaseman">Main Channel</a>
 
         <p>--------------------------<p>
 
