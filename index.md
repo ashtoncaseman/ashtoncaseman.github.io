@@ -33,7 +33,7 @@
 
   <p>----------------------------------<p>
       
-  <a href="https://ashtoncaseman.github.io/socials.html">Socials</a>
+  <a href="https://ashtoncaseman.github.io/socials.md">Socials</a>
 
   </script>
 
