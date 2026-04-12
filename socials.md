@@ -57,6 +57,6 @@
     
     <p>----------------------------------<p>
 
-<a href="https://ashtoncaseman.github.io/index.md">Home</a>
+[Home](./index.html)
 
     <p>----------------------------------<p>
