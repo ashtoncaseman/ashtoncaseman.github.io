@@ -1,6 +1,4 @@
- <div class="text-center">
-
-<h1 class="display-4">All My Socials↴
+All My Socials↴
 
 <p>-------------------------<p>
 
