@@ -1,5 +1,7 @@
 title:
 description:
 show_downloads: false
+header: false
+footer: false
 google_analytics:
 theme: jekyll-theme-midnight
