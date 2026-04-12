@@ -4,7 +4,7 @@ All My Socials↴
          
 <p>--------------------------</p>
 
- <a href="https://ashtoncaseman.github.io/socials.md">Socials</a>
+ <a href="https://youtube.com/@ashtoncaseman">Main Channel</a>
 
 <a href="https://instagram.com/ashtoncaseman">Instagram</a>
 
