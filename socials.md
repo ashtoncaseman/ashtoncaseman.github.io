@@ -6,8 +6,6 @@ All My Socials↴
     
 <a href="https://www.razer.com/?irclickid=w6QxdyXMNxycWshSSx1qGz0wUkpXyxzhT3TAzM0&irgwc=1&afsrc=1&utm_source=Ashton%20Playz&utm_medium=affiliate&utm_content=6102781&utm_term=Ashton%20Playz&utm_sharedid=&cid=Ashton%20Playz-affiliate">RAZER Sponsor</a>
 
-<a href="https://ashtonplayz-shop.fourthwall.com/">Merch</a>  
-
 <a href="https://youtube.com/@acstudiosyt">GoAnimate Channel</a>
 
 <a href="https://www.youtube.com/@AshtonCaseman2">Second Channel</a>
