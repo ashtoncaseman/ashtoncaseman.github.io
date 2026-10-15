@@ -1,33 +1,43 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
 
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="apple-touch-icon" href="/logo.png">
-    {% include head-custom.html %}
-  </head>
-  <body>
-        </nav>
-      </div><!-- end header -->
+  <!-- Google AdSense Script (Paste your pub-ID below) -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+     crossorigin="anonymous"></script>
 
-    <div class="wrapper">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body>
 
-        {{ content }}
+  <!-- Header & Navigation -->
+  <header>
+    <nav>
+      <a href="/">Home</a> | 
+      <a href="/about">About</a> | 
+      <a href="/contact">Contact</a>
+    </nav>
+  </header>
 
-      </section>
+  <!-- Main Content Area -->
+  <main>
+    {{ content }}
+  </main>
 
-    </div>
-  </body>
+  <!-- Footer with Required Policy Links -->
+  <footer>
+    <hr>
+    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    <p>
+      <a href="/privacy-policy">Privacy Policy</a> | 
+      <a href="/terms">Terms & Conditions</a> | 
+      <a href="/contact">Contact Us</a>
+    </p>
+  </footer>
+
+</body>
 </html>
